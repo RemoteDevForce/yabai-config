@@ -15,7 +15,7 @@ I followed the video but run into some issues. I did the no SAPI route and I'm o
 
 At each point when you're installing something, copy the configs here in the appropriate places (mainly under `~/.config`).
 
-Put `fail.mp3` in Music dir, replace karabiner `insert` action with the location of where you put this file. Anytime you fail at progamming, hit `insert` and feel the pain of being a 21st century digital human.
+Find your favorite mp3 of a soundbyte that you think is funny and replace the `fail.mp3` with your own. In the karabiner config file, `insert` action with the location of where you put this file. Now when you hit `insert` it will play your soundbyte.
 
 Put the `window-focus-on-destroy.sh` file somewhere and replace `yabairc` location with the location of your file. Make it executable.
 
