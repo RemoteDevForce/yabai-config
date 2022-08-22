@@ -1,7 +1,5 @@
 Productivity Shortcuts
 
-yabai skhd Alfred hammerspoon karabiner limelight stackline
-
 # Misc
 Hold both shifts - enable caps lock
 
