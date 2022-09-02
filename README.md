@@ -36,5 +36,13 @@ Installed hammerspoon, stackline and updated configs to get that working.
 
 Enjoy! I printed the shortcuts and put them on my wall above my keyboard to get the hang of using it.
 
+## Debug
+
+Checkout Karabiner Events app to watch key strokes (ex. hyper key)
+
+Watch yabai logs with `tail -f /opt/homebrew/var/log/yabai/*`
+
+Find a keyhex for skhd with `skhd --observe`
+
 ## TODO
 Would like to figure out how to move a window in split fasion without dragging the window. Hard to explain but example would be lets say you have 3 windows side-by-side but taking a window and placing under/above a window next to it rather than just moving the window. I can achive it but dargging with my mouse below a window but theres gotta be a way to do that via skhd, PRs are welcome!
